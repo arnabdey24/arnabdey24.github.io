@@ -85,7 +85,7 @@ a.fiverr-button{
     align-items: center;
     box-shadow: 0px 0px 3px 0px #2D2D2D;
 }
-a.fiverr-button span{
+a.fiverr-button.logo{
     margin-right: 15px;
     display: block;
     width: 44px;
